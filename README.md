@@ -17,6 +17,14 @@ The system recognizes vehicle license plates and automatically controls a barrie
 - C / C++
 - Wi-Fi, HTTP
 - Sensors and actuators
+  
+## 🧪 Development
+The project was developed using both:
+- Arduino IDE
+- Visual Studio Code
+
+This allowed flexible debugging and testing of embedded and IoT components.
+
 
 ## 🎯 Result
 A fully functional prototype of an automated access control system.  
