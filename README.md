@@ -31,5 +31,5 @@ A fully functional prototype of an automated access control system.
 The project provided hands-on experience in designing, programming, and integrating an IoT device from concept to working solution.
 
 ## 👤 Author
-**Adilkhan Bazarkhanov**  
+**Adilkhan Bazarkhanov**  **Ramazan Nurgissa**
 IoT / Embedded Systems / Automation  
